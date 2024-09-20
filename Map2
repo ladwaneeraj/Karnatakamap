@@ -1,0 +1,3065 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.7971, 17.8155]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585447,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.5955, 17.6258]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585404,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [74.878526, 12.853372]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 575009,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.27, 13.32]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573103,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.27, 13.33]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573103,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.27, 13.33]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573103,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.33, 13.32]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573103,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.2, 13.14]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573162,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.22, 13.12]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573162,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.869467, 14.389901]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577002,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.878812, 14.510337]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577589,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.872276, 14.52771]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577589,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.730096, 14.363793]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577530,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.735695, 14.388642]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577530,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.719704, 14.320953]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577530,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.018156, 14.352468]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577534,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.038466, 14.335211]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577534,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.544803, 17.403869]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577534,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.922985, 14.395693]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577002,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.921568, 14.47029]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577002,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.585225, 13.11905]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577589,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.681172, 14.387428]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577530,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.463483, 13.781249]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577534,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.895511, 14.438152]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577004,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.932865, 14.277775]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577002,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.908216, 14.540214]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577589,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.637902, 14.390798]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577530,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.546178, 12.957797]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577530,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.764766, 14.322278]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577530,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.071825, 14.330094]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577534,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.675701, 12.906684]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577534,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.31, 13.28]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573103,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.3, 13.32]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573103,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.31, 13.31]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573103,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.28, 13.25]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573103,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.27, 13.27]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573103,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.33, 13.02]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573111,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.14, 13.4]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573112,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.15, 13.44]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573112,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.2, 13.44]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573112,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.18, 13.45]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573112,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.21, 13.36]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573103,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.19, 13.34]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573103,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.24, 13.4]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573103,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.2, 13.34]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573103,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.31, 13.28]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573103,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.37, 13.11]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573111,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.41, 13.04]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573111,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.18, 13.38]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573112,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.89, 13.18]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573115,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.75, 13.11]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573115,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.77, 13.12]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573115,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.825223, 14.397105]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577002,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.975727, 14.492904]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577002,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.942036, 14.345939]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577002,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.927453, 14.303714]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577002,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.942624, 14.390356]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577007,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.746036, 14.384184]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577530,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.776393, 14.36841]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577530,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.029037, 14.267183]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577534,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.944872, 14.446827]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577003,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.927453, 14.454301]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577004,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.22, 13.12]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573162,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.35, 13]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573111,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.32, 13.05]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573111,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.14, 13.4]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573112,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.82, 13.15]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573115,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.8, 13.2]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573115,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.85, 13.23]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573115,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.75, 13.21]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573115,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.29, 13.28]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573103,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.22, 13.41]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573103,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.23, 13.42]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573103,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.29, 13.28]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573103,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.4, 13.12]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573111,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.38, 13.08]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573111,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.24, 13.46]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573112,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.84, 13.22]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573115,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.81, 13.17]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573115,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.77, 13.15]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573115,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.76, 13.18]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573115,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.87, 13.23]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573115,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.73, 17.3]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585102,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.81, 17.27]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585102,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.84, 17.29]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585102,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.99, 17.25]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585102,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.73, 17.35]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585102,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.96, 17.33]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585102,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.45, 17.11]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585212,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.54, 17.17]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585212,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.49, 17.19]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585212,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.6, 17.29]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585265,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.59, 17.14]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585265,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.69, 17.25]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585265,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.67, 17.09]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585265,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.68, 17.1]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585265,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.71, 16.99]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585310,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.69, 17.06]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585310,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.59, 16.98]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585310,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.82, 17.04]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585310,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.76, 17.08]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585310,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.82, 13.22]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573115,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.39, 12.87]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573116,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.31, 12.84]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573116,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.34, 12.91]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 573116,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.61, 17.06]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585310,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.79, 17.07]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585310,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.74, 17.43]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585311,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.66, 17.5]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585311,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.27, 17.23]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585312,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.03, 17.66]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585313,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.97, 17.53]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585313,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77, 17.16]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585313,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.63, 17.68]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585314,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.68, 17.68]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585314,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.2248133, 12.5852004]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 574313,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.0020455, 12.9022636]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 574219,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [74.9564802, 12.9340532]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 574219,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.466888, 12.7418522]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 574221,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.4756642, 12.7985862]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 574221,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.4721666, 12.7745]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 574221,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.0793909, 12.8201332]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 574222,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.2103111, 12.8933337]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 574326,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.2594813, 12.9376974]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 574217,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.2116844, 12.9899254]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 574217,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.2003118, 13.0584612]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 574217,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.2332386, 13.055897]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 574217,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.2314683, 13.0134859]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 574217,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.2456519, 12.961612]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 574217,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.6056762, 12.611926]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 574218,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.5449673, 12.5449673]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 574218,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.521766, 12.6557318]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 574218,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.610236, 12.5767461]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 574218,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [74.9706208, 12.9172196]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 574219,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [74.9864995, 12.9350188]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 574219,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.4775632, 12.7178483]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 574221,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.1735648, 12.8864243]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 574326,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.2718088, 12.8787961]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 574326,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.4012453, 12.6957538]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 574328,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.4274666, 12.6786628]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 574328,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.50313, 12.9173461]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 574198,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.58, 17.18]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585265,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.494663, 16.937126]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585325,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.5, 17.05]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585310,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.67, 16.82]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585310,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.75, 17.16]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585310,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.87, 17.05]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585310,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.66, 16.94]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585310,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.92, 17]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585310,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.64, 17.47]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585311,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.72, 17.41]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585311,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.68, 17.42]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585311,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.11, 17.3]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585312,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.06, 17.38]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585312,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.2, 17.3]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585312,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.11, 17.3]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585312,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.25, 17.23]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585312,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.23, 17.28]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585312,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.12, 17.56]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585313,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.05, 17.57]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585313,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.11, 17.61]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585313,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.59, 17.66]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585314,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.8, 17.63]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585316,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.72, 17.63]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585316,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.16, 16.6]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585236,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.62, 17.68]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585314,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.73, 17.59]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585316,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.89, 17.44]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585316,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.93, 17.49]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585316,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.88, 17.62]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585316,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.1, 17.3]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585217,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.14, 17.23]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585217,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.17, 17.21]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 585217,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.9267309, 12.1988576]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 571215,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.9318486, 12.2694533]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 571215,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.9866408, 12.1061175]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 571216,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.9383395, 12.120301]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 571216,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.0075084, 12.1048622]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 571216,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.9729615, 12.1059673]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 571216,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.9316877, 12.6361006]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 571235,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.8847812, 12.7313297]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 571235,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.8847919, 12.7313726]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 571235,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.2304706, 12.8987088]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 574326,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.3191257, 12.6075641]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 574223,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.2957154, 12.6254491]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 574223,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.87958, 13.6931962]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577228,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.8337678, 13.677178]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577228,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.8733894, 13.7391263]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577228,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.230531, 13.761369]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577515,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.187068, 13.750412]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577515,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.160259, 13.777902]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577515,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.3109, 13.6647]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577597,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.84468, 13.708126]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577597,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.354093, 13.606416]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577597,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.805967, 26.948827]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577519,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.195182, 14.303291]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577541,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.285104, 14.279733]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577541,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.412816, 13.591482]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577542,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.437509, 13.607354]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577542,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.389773, 13.591985]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577542,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.578315, 12.475247]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577542,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.334784, 14.278047]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577502,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.484087, 13.061868]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577502,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.366623, 14.242935]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577502,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.0381499, 12.044019]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 571216,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.383986, 14.260997]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577502,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.277058, 12.974031]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577517,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.400347, 14.222103]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577517,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.638931, 14.071546]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577545,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.655349, 14.018853]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577545,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.6354538, 12.3045688]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 571214,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.6490794, 12.318763]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 571214,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.9091571, 12.2557419]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 571215,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.9397879, 12.1566611]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 571216,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.9756974, 12.1473377]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 571216,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.9186414, 12.1337335]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 571216,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.077326, 12.891908]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577556,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.255198, 14.878345]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577556,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.255198, 14.878345]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577556,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.119201, 14.497011]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577512,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.101551, 14.46194]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577512,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.007275, 14.449171]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577512,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.100101, 14.505951]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577512,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.047894, 14.485744]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577512,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.124022, 14.667545]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577513,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.994216, 14.307712]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577514,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.231255, 14.500264]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577553,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.253705, 14.455342]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577553,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.29717, 14.508691]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577553,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.44, 13.062829]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577553,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.895623, 14.463837]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577566,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.845706, 19.118797]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577601,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.302214, 14.671133]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577528,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.35794, 14.564012]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577528,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.450524, 14.535267]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577528,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.925216, 14.471189]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577528,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.581923, 13.11916]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577528,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.29825, 13.48705]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577513,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.027586, 14.504433]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577512,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.196486, 14.66337]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577513,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.644517, 12.950571]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577513,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.9238267, 14.4663568]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577514,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.973175, 14.373926]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577514,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.720431, 14.470785]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577516,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.8514704, 13.7417656]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577228,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.7766797, 13.7395555]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577228,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.788471, 13.937098]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577511,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.736538, 13.837729]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577511,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.745195, 13.795645]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577511,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.037857, 11.781869]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577558,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.06993, 13.92531]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577543,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.238135, 13.408027]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577543,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.765451, 14.472653]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577543,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.647247, 12.961123]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577543,
+        "StateName": "KARNATAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.496792, 14.344313]
+      },
+      "properties": {
+        "CircleName": "Karnataka Circle",
+        "Pincode": 577517,
+        "StateName": "KARNATAKA"
+      }
+    }
+  ]
+}
